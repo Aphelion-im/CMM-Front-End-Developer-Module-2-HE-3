@@ -1,4 +1,5 @@
-# College of Multimedia Opdracht HE-2
+[![Netlify Status](https://api.netlify.com/api/v1/badges/218ae379-1876-4ed9-88f1-71ee9f075fea/deploy-status)](https://app.netlify.com/sites/cmm-front-end-developer-module-2-he-3/deploys)
+# College of Multimedia Opdracht HE-3
 
 __Opdrachtomschrijving HE-3__
 
